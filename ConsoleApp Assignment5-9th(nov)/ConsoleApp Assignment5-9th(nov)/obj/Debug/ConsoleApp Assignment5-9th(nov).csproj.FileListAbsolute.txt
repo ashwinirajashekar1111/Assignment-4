@@ -1,0 +1,7 @@
+C:\Mphasis -B233\AppTwo\Day-4\Assignment-(9th nov)\ConsoleApp Assignment5-9th(nov)\ConsoleApp Assignment5-9th(nov)\bin\Debug\ConsoleApp Assignment5-9th(nov).exe.config
+C:\Mphasis -B233\AppTwo\Day-4\Assignment-(9th nov)\ConsoleApp Assignment5-9th(nov)\ConsoleApp Assignment5-9th(nov)\bin\Debug\ConsoleApp Assignment5-9th(nov).exe
+C:\Mphasis -B233\AppTwo\Day-4\Assignment-(9th nov)\ConsoleApp Assignment5-9th(nov)\ConsoleApp Assignment5-9th(nov)\bin\Debug\ConsoleApp Assignment5-9th(nov).pdb
+C:\Mphasis -B233\AppTwo\Day-4\Assignment-(9th nov)\ConsoleApp Assignment5-9th(nov)\ConsoleApp Assignment5-9th(nov)\obj\Debug\ConsoleApp Assignment5-9th(nov).csproj.AssemblyReference.cache
+C:\Mphasis -B233\AppTwo\Day-4\Assignment-(9th nov)\ConsoleApp Assignment5-9th(nov)\ConsoleApp Assignment5-9th(nov)\obj\Debug\ConsoleApp Assignment5-9th(nov).csproj.CoreCompileInputs.cache
+C:\Mphasis -B233\AppTwo\Day-4\Assignment-(9th nov)\ConsoleApp Assignment5-9th(nov)\ConsoleApp Assignment5-9th(nov)\obj\Debug\ConsoleApp Assignment5-9th(nov).exe
+C:\Mphasis -B233\AppTwo\Day-4\Assignment-(9th nov)\ConsoleApp Assignment5-9th(nov)\ConsoleApp Assignment5-9th(nov)\obj\Debug\ConsoleApp Assignment5-9th(nov).pdb
